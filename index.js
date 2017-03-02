@@ -1,5 +1,5 @@
 module.exports = {
-    "extends": "podpoint-base",
+    "extends": "@pod-point/eslint-config-podpoint-base",
     "rules": {
         "strict": "off",
         "eqeqeq": "off",

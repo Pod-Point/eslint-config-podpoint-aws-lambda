@@ -11,6 +11,6 @@
   },
   "author": "POD Point Software Team <software@pod-point.com>",
   "peerDependencies": {
-    "eslint-config-podpoint-base": "^0.1"
+    "@pod-point/eslint-config-podpoint-base": "0.*"
   }
 }

@@ -1,0 +1,16 @@
+
+{
+  "name": "@pod-point/eslint-config-podpoint-aws-lambda",
+  "version": "0.1.0",
+  "description": "ESLint config for AWS Lambda/Serverless",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pod-Point/eslint-config-podpoint-aws-lambda.git"
+  },
+  "author": "POD Point Software Team <software@pod-point.com>",
+  "peerDependencies": {
+    "eslint-config-podpoint-base": "^0.1",
+  }
+}

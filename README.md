@@ -9,5 +9,5 @@ First, install the [eslint-config-podpoint-base](https://github.com/Pod-Point/es
 Then install this package:
 
 ```bash
-npm install eslint-config-podpoint-aws-lambda
+npm install --save-dev eslint-config-podpoint-aws-lambda
 ```

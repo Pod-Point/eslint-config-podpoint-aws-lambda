@@ -8,8 +8,8 @@ module.exports = {
         "no-console": "off",
         "comma-dangle": [
             "error", {
-                "arrays": "always",
-                "objects": "always",
+                "arrays": "always-multiline",
+                "objects": "always-multiline",
                 "imports": "ignore",
                 "exports": "ignore",
                 "functions": "never"

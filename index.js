@@ -6,6 +6,14 @@ module.exports = {
         "no-unused-vars": "off",
         "class-methods-use-this": "off",
         "no-console": "off",
-        "comma-dangle": ["error", "ignore"]
+        "comma-dangle": [
+            "error", {
+                "arrays": "always",
+                "objects": "always",
+                "imports": "ignore",
+                "exports": "ignore",
+                "functions": "never"
+            }
+        ]
     }
 };
